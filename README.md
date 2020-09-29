@@ -10,5 +10,5 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-|a|g|e|l|
+|a|g|e|l|h|
 |#|+|+|#|
